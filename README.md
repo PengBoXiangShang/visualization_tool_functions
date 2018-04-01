@@ -26,7 +26,5 @@ Some frequently-used plots has been released in python and MATLAB formations, in
             scatter_plot.py
             stacked_bar_plot.py
 ```
-## Example Figures
->
 ## This project will be continuously updated!
 

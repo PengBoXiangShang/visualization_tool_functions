@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
-def scatterplot(x_data, y_data, x_label="", y_label="", title="", color = "r",yscale_log=False):
+
+def scatter_plot(x_data, y_data, x_label="", y_label="", title="", color = "r",yscale_log=False):
 
     # Create the plot object
     _, ax = plt.subplots()    # Plot the data, set the size (s), color and transparency (alpha)

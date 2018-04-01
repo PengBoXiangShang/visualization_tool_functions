@@ -1,8 +1,9 @@
 # visualization_tool_functions
  
 ## About This Repository
-This repository contains some tool functions for data visualization,
+This repository contains some tool functions for data visualization and data analysis,
 which can be used for computer science paper writing.
+Some frequently-used plots has been released in python and MATLAB formations, including bar plot, histogram, boxplot, probability density function, etc.
 ```
 |   README.md
 |
@@ -25,5 +26,7 @@ which can be used for computer science paper writing.
             scatter_plot.py
             stacked_bar_plot.py
 ```
+## Example Figures
+>
 ## This project will be continuously updated!
 

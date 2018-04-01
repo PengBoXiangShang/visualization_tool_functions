@@ -2,6 +2,7 @@
  
 ## About This Repository
 This repository contains some tool functions for data visualization.
+```
 │  README.md
 │
 ├─data
@@ -18,6 +19,6 @@ This repository contains some tool functions for data visualization.
             overlaid_histogram_plot.py
             scatter_plot.py
             stacked_bar_plot.py
-
+```
 ## Examples
 ### 

@@ -1,7 +1,8 @@
 # visualization_tool_functions
  
 ## About This Repository
-This repository contains some tool functions for data visualization.
+This repository contains some tool functions for data visualization,
+which can be used for computer science paper writing.
 ```
 │  README.md
 │
@@ -21,4 +22,8 @@ This repository contains some tool functions for data visualization.
             stacked_bar_plot.py
 ```
 ## Examples
-### 
+### box plot
+![avatar](./output_example/box_plot.png)
+### line chart
+### histogram
+## This project will be continuously updated!

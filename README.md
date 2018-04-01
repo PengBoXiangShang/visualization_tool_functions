@@ -2,24 +2,22 @@
  
 ## About This Repository
 This repository contains some tool functions for data visualization.
-.
-+-- _config.yml
-+-- _drafts
-|   +-- begin-with-the-crazy-ideas.textile
-|   +-- on-simplicity-in-technology.markdown
-+-- _includes
-|   +-- footer.html
-|   +-- header.html
-+-- _layouts
-|   +-- default.html
-|   +-- post.html
-+-- _posts
-|   +-- 2007-10-29-why-every-programmer-should-play-nethack.textile
-|   +-- 2009-04-26-barcamp-boston-4-roundup.textile
-+-- _data
-|   +-- members.yml
-+-- _site
-+-- index.html
+│  README.md
+│
+├─data
+└─src
+    ├─matlab_code
+    │      histogram_plot.m
+    │
+    └─python_code
+            bar_plot.py
+            box_plot.py
+            grouped_bar_plot.py
+            histogram_plot.py
+            line_chart_plot.py
+            overlaid_histogram_plot.py
+            scatter_plot.py
+            stacked_bar_plot.py
 
 ## Examples
 ### 

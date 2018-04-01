@@ -23,7 +23,7 @@ which can be used for computer science paper writing.
 ```
 ## Examples
 ### box plot
-![avatar](./output_example/box_plot.png)
+![avatar](output_example/box_plot.png)
 ### line chart
 ### histogram
 ## This project will be continuously updated!
